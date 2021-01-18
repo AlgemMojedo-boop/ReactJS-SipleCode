@@ -1,2 +1,2 @@
-# ReactJS-SipleCode
+# ReactJS-SimpleCode
 ReactJS simple code
